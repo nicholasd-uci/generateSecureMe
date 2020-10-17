@@ -20,7 +20,8 @@ The CSS and HTML was already done for us. Our primary focus was rendering JavaSc
 
 > You are able to click the generate me button that will bring a series of command prompt 
 
-***Example***
+***figure 1.1***
+
 ![prompt](./photos/prompt.png)
 
 > Once you have answered all the prompts your password will generate like this
