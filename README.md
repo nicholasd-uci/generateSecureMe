@@ -31,8 +31,9 @@ The CSS and HTML was already done for us. Our primary focus was rendering JavaSc
 
 ## LINKS
 
-- [generateSecureMe Link](https://nicholasd-uci.github.io/generateSecureMe/)
+- [generateSecureMe Deployed](https://nicholasd-uci.github.io/generateSecureMe/)
 - [Github Repo Link](https://github.com/nicholasd-uci/generateSecureMe)
+- [Nicholas Dallas's GitHub](https://github.com/nicholasd-uci)
 
 - - -
 © 2020 NPRD, Nicholas Paul Ruiz Dallas
